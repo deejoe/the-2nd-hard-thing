@@ -36,5 +36,5 @@ Some combiners:
 * Professor of
 
 
-If you really want to limber your psyche up for this sort of thing, just read through [the list of titles and styles at the end of this page](https://web.tproa.net/)
+If you really want to limber your psyche up for this sort of thing, just read through [the list of titles and styles at this page](https://web.tproa.net/official.sig.txt)
 
