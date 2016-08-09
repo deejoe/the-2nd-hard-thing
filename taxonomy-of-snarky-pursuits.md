@@ -20,6 +20,7 @@ expansions in scope will be considered.
 * white knighting
 * trolling
 * trolling, concern
+* bikeshed painting
 
 Some combiners:
 
