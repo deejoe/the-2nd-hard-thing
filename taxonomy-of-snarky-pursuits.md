@@ -20,6 +20,7 @@ expansions in scope will be considered.
 * white knighting
 * trolling
 * trolling, concern
+* bikeshed painting
 
 Some combiners:
 
@@ -36,5 +37,4 @@ Some combiners:
 * Professor of
 
 
-If you really want to limber your psyche up for this sort of thing, just read through [this list of titles and styles](https://web.tproa.net/)
-
+If you really want to limber your psyche up for this sort of thing, just read through [this list of titles and styles](https://web.tproa.net/official.sig.txt)
