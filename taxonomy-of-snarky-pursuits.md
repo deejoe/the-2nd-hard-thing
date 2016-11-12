@@ -21,6 +21,8 @@ expansions in scope will be considered.
 * trolling
 * trolling, concern
 * bikeshed painting
+* mansplaining
+* sealioning
 
 Some combiners:
 
